@@ -1,2 +1,23 @@
-# getwhoami
-whoami - Header Parser Microservic : get your ipaddress, os and language
+whoami
+=========================
+freecodecamp project
+
+get:
+- your ip adress
+- your software(os)
+- your language
+
+
+
+Usage
+------------
+
+## input: 
+[https://getwhoami.glitch.me/](https://getwhoami.glitch.me/)
+
+## output:
+{"ipaddress":"getwhoami.glitch.me","language":"fr-FR","software":"Windows NT 10.0; Win64; x64"}
+
+
+
+
