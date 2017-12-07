@@ -17,10 +17,10 @@ app.get("/", function (request, response) {
 });
 
 app.get("/whoami", function (request, response) {
-     
+     console.log()
    
   response.json({
-    ipaddress:request.headers.host,
+    ipaddress:request.headers['x-forwarded-for'].split(",")[0],
     language: request.headers["accept-language"].split(",")[0],
     software: /\(([^\(\)]*)\)/.exec(request.headers["user-agent"])[1]
    
