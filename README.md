@@ -1,6 +1,6 @@
 whoami
 =========================
-freecodecamp project - [https://www.freecodecamp.org/challenges/request-header-parser-microservice](Request Header Parser Microservice)
+freecodecamp project - [Request Header Parser Microservice](https://www.freecodecamp.org/challenges/request-header-parser-microservice)
 
 get:
 - your ip address
@@ -13,7 +13,7 @@ Usage
 ------------
 
 ## input: 
-[https://getwhoami.glitch.me/](https://getwhoami.glitch.me/)
+[https://getwhoami.glitch.me/whoami](https://getwhoami.glitch.me/whoami)
 
 ## output:
 ```javascript
