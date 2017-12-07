@@ -3,8 +3,8 @@ whoami
 freecodecamp project
 
 get:
-- your ip adress
-- your software(os)
+- your ip address
+- your software (OS)
 - your language
 
 
